@@ -11,7 +11,6 @@ Note:
 
 - Dataset Credits --> https://www.kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase Filter on country and status column
 
-- Unauthorised use or distribution of this project prohibited @dataanalystduo
 
 Plan of Action:
 Formulating the Hypothesis: Begin by crafting clear and testable hypotheses that lay the foundation for your analysis.
